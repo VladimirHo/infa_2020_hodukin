@@ -3,4 +3,4 @@ from pygame.draw import *
 
 pygame.init()
 
-help(pygame.draw)
+help(pygame.display.set_mode)
